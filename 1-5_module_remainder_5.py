@@ -11,3 +11,6 @@ while index < length:
 
 print('Your list with calculated remainders for 5 which equals 3 (it\'s length - ' + str(length) + ' ):')
 print(listRemainders)
+print('Reverse remainders list:')
+listRemainders.reverse()
+print(listRemainders)
